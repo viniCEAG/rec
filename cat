@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Paixão por Café</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fef9f4;
+            color: #3e2f1c;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #6f4e37;
+        }
+
+        img {
+            width: 300px;
+            border: 3px solid #6f4e37;
+            border-radius: 8px;
+            margin: 15px;
+        }
+
+        p {
+            max-width: 600px;
+            margin: 0 auto 30px auto;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Paixão por Café</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG" alt="Xícara de café quente">
+    <p>O café é uma das bebidas mais consumidas no mundo e faz parte da minha rotina diária. Gosto de começar o dia com uma xícara quente, que me ajuda a despertar e me dá energia para enfrentar as tarefas.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coffea_Arabica_-_Köhler–s_Medizinal-Pflanzen-193.jpg/800px-Coffea_Arabica_-_Köhler–s_Medizinal-Pflanzen-193.jpg" alt="Planta de café arábica">
+    <p>Esta é a planta de café arábica, uma das espécies mais cultivadas. Aprender sobre sua origem, cultivo e variedades me fez apreciar ainda mais o sabor e a complexidade de um bom café.</p>
+
+</body>
+</html>
